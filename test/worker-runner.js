@@ -40,6 +40,7 @@ self.onmessage = function (e) {
     "living-html/htmlelement.js": require("../test/living-html/htmlelement.js"), // ok
     "living-html/location.js": require("../test/living-html/location.js"), // ok
     "living-html/navigator.js": require("../test/living-html/navigator.js"), // ok
+    "living-html/url.js": require("../test/living-html/url.js"), // ok
 
     "window/history": require("../test/window/history"), // ok
     "window/script": require("../test/window/script"), // 0/10
@@ -79,6 +80,8 @@ self.onmessage = function (e) {
     "living-dom/non-document-type-child-node.js",
     "living-html/location.js",
     "living-html/navigator.js",
+    
+    "misc/url.js",
 
     "window/history",
     "window/console",

@@ -58,6 +58,8 @@ var files = [
   "living-html/location.js",
   "living-html/htmlimageelement.js",
   "living-html/navigator.js",
+  
+  "misc/url.js",
 
   "window/history.js",
   "window/script.js",
